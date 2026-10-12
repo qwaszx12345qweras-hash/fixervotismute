@@ -1,0 +1,7 @@
+name: LiteBansMuteHook
+version: 1.0
+main: ru.mutehook.LiteBansMuteHook
+api-version: '1.21'
+author: Votis
+description: Fix mutes for LiteBans with any chat plugin.
+depend: [LiteBans]
