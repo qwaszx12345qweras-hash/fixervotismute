@@ -1,0 +1,16 @@
+mute-message: "&cВы заглушены и не можете писать в чат."
+
+blocked-commands:
+  - "msg"
+  - "tell"
+  - "w"
+  - "whisper"
+  - "m"
+  - "t"
+  - "pm"
+  - "message"
+  - "r"
+  - "reply"
+  - "me"
+  - "say"
+  - "mail"
